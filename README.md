@@ -1,4 +1,4 @@
-# The-privacy-policy-of-XingZuoKaiYunWu
+# The-privacy-policy-of-TaoYouHuiQuan
 
 This App is fully aware of the importance of personal information to you, and will do its best to protect your personal information security and reliability. We are committed to maintaining your trust in us and protecting your personal information in accordance with the following principles: the principle of consistency of rights and responsibilities, the principle of clear purpose, the principle of selective consent, the principle of minimum adequacy, the principle of ensuring security, the principle of subject participation, the principle of openness and transparency, etc. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards. Please read and understand this privacy policy carefully before using our products (or services).
 How do we collect and use your personal information
