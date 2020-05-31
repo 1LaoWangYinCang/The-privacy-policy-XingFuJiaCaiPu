@@ -1,15 +1,15 @@
-# The-privacy-policy-of-XingFuJiaCaiPu
+# The-privacy-policy
 
 This App is fully aware of the importance of personal information to you, and will do its best to protect your personal information security and reliability. We are committed to maintaining your trust in us and protecting your personal information in accordance with the following principles: the principle of consistency of rights and responsibilities, the principle of clear purpose, the principle of selective consent, the principle of minimum adequacy, the principle of ensuring security, the principle of subject participation, the principle of openness and transparency, etc. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards. Please read and understand this privacy policy carefully before using our products (or services).
 How do we collect and use your personal information
 Personal information refers to all kinds of information recorded by electronic or other means that can identify the identity of a specific natural person or reflect the activities of a specific natural person independently or in combination with other information. We will only collect and use your personal information for the following purposes stated in this policy:
-(I) to provide you with recipes and cooking introductions
+(a) to provide you with daily necessities purchase service
 1. Business function 1: register as a user
 To complete the account creation, you need to provide the following information: your phone number, the account you created, and your password.
 The above information provided by you will continue to authorize us for the duration of your use of the service. When you log out of your account, we will stop using and delete the above information.
 The above information will be stored in the territory of the People's Republic of China. If cross-border transmission is required, we will obtain your authorization separately.
-2. Business function 2: we will show you our selected menu
-We show a variety of recipes
+2. Business function 2: we show you all kinds of daily necessities we sell
+We display all kinds of articles for daily use
 (ii) carry out internal data analysis and research, and provide third-party SDK statistical services to improve our products or services
 We collect data based on your interactions with us and the choices you make, including your privacy Settings and the products and features you use. We collect data may include the SDK/API/JS code version, browser, Internet service providers (isps), IP address, platform, timestamp, identifier, version of the application, the application distribution channels, independent device identifier, iOS advertising identifier (IDFA), android advertisers identifier, nic (MAC) address, international mobile equipment identification number (IMEI), equipment type, terminal manufacturers, terminal equipment operating system version, session start/stop time, local language, time zone and network status (WiFi, etc.), hard disk, CPU, and battery usage, etc.
 Your consent will be sought when we use the information for other purposes not specified in this policy.
@@ -45,6 +45,6 @@ Account information -- if you want to access or edit your personal information a
 V. how to update this privacy policy
 We may adjust or change this privacy policy in due course, and any updates to this privacy policy will be posted on our website with the date of update indicated. Unless otherwise required by laws, regulations or regulations, the adjusted or changed content will take effect 7 days after notification or publication. If you continue to use any of our services or visit our websites after the privacy policy has been adjusted or changed, we believe this means that you have fully read, understood and accepted the revised privacy policy and are bound by it.
 How to contact us
-If you have any questions, comments or Suggestions about this privacy policy, please contact us at khx19940105@icloud.com:
+If you have any questions, comments or Suggestions about this privacy policy, please contact us at di521logi@sina.com:
 
 As a rule, we'll reply within 30 days.
